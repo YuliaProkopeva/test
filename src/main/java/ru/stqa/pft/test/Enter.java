@@ -1,3 +1,5 @@
+package ru.stqa.pft.test;
+
 public class Enter {
 
 

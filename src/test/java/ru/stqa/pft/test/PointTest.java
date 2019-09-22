@@ -1,3 +1,5 @@
+package ru.stqa.pft.test;
+
 import org.testng.annotations.Test;
 
 public class PointTest {
